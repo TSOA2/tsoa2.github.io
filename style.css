@@ -1,11 +1,13 @@
 body {
-	background-color: black;
+		background-color: black;
 }
 
-h2 {
-	color: blueviolet;
+h1 {
+		font-family: Arial;
+		color: white;
 }
 
 p {
-	color: red;
+		font-family: Arial;
+		color: white;
 }
